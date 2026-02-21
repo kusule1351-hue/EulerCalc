@@ -6,7 +6,3 @@ A minimal CAS + Physics Calculator with a modern Python GUI (ttkbootstrap + SymP
 - Physics formula library (organized by categories)
 - Math/CAS tools (symbolic expressions, solving, etc.)
 - Optional plotting/visualization (matplotlib)
-
-## Install
-```bash
-pip install -r requirements.txt
